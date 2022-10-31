@@ -1,3 +1,3 @@
-# HWMach
+# project Data Analyst
 Machine Learning for Life.
-Основы аналитики / Домашнее задание.
+Домашнее задание по проектам Нетология (только colab python)
